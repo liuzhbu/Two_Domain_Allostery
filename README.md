@@ -1,5 +1,5 @@
 # Two_Domain_Allostery
-This folder contains all the data and code used in the paper entitled "A parametrized two-domain thermodynamic model explains diverse mutational effects on protein allostery". Readers can easily identify the contents of each file following filenames and the code for generating the figures.
+This repository contains all the data and code used in the paper entitled "A parametrized two-domain thermodynamic model explains diverse mutational effects on protein allostery". Readers can easily identify the contents of each file following filenames and the code for generating the figures.
 
 FCdata.txt and G102D_FC.txt contain the experimental fold change measurements for the 24 mutants.
 
